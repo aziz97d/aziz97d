@@ -13,7 +13,7 @@
 
 
 <br />
-
+<br/>
 Hi, I'm [Abdul Aziz](https://aziz97d.netlify.app), a passionate self-taught Full Stack web developer. I take great care in the experience, architecture, and code quality of the things I build.
 
 
@@ -21,8 +21,8 @@ Hi, I'm [Abdul Aziz](https://aziz97d.netlify.app), a passionate self-taught Full
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/aziz97d);
-- 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+- 📫 How to reach me: [@aziz97d](https://twitter.com/aziz97d);
+- 📝 [Resume](https://drive.google.com/file/d/1hlw5hdBa0Sz7HGwbAoE8dJpbPqgquGt_/view?usp=sharing)
 
 **Languages and Tools:**  
 

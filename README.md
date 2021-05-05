@@ -7,9 +7,7 @@
 <a href="https://www.linkedin.com/in/aziz97d/">
   <img align="left" alt="Abdul Aziz's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left"  width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+
 
 
 <br />
@@ -34,13 +32,6 @@ Hi, I'm [Abdul Aziz](https://aziz97d.netlify.app), a passionate self-taught Full
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JavaScript   4 hrs 51 mins   ███████████▓░░░░░░░░░░░░░   46.47 % 
-SCSS         3 hrs 30 mins   ████████▒░░░░░░░░░░░░░░░░   33.51 % 
-JSX          2 hrs 5 mins    █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-```
 
 
 📈 My GitHub Stats
